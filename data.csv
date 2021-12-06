@@ -1,35 +1,24 @@
 link,title,votes
-https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0,"Show HN: 40k HN comments mentioning books, extracted using deep learning",1091
-https://people.freebsd.org/~gallatin/talks/euro2021.pdf,Serving Netflix Video at 400Gb/s on FreeBSD [pdf],690
-http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs,If I could bring one thing back to the internet it would be blogs (2020),591
-https://freenetproject.org/index.html,Freenet is a peer-to-peer platform for censorship-resistant communication,513
-https://www.longtermtrends.net/home-price-median-annual-income-ratio/,Home Price to Income Ratio,488
-https://github.com/ClickHouse/ClickHouse/blob/master/website/blog/en/2021/clickhouse-inc.md,"ClickHouse, Inc.",467
-https://www.ekioh.com/devblog/google-docs-in-a-clean-room-browser/,Google Docs in a clean-room browser,396
-https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/,I started SaaS companies in 2013 and 2021 – how things have changed,393
-http://plumshell.com/2017/11/30/as-a-solo-app-developer-i-decided-to-offer-phone-support-and-this-is-what-happened/,"As a solo developer, I decided to offer phone support (2017)",377
-https://twitter.com/netresec/status/1440036446291693574,Text entered into Windows' Run dialogue gets sent to Microsoft's telemetry,243
-https://www.linkedin.com/posts/robertsforwriting_i-am-in-the-wing-delivery-area-in-canberra-activity-6845498818092498944-A8sh,"Footage of Australian Raven Attacking a Wing Drone in Canberra, Australia",239
-https://puri.sm/posts/microsoft-ruined-passwords-now-aims-for-a-passwordless-future/,"Microsoft ruined passwords, now aims for a passwordless future",220
-https://thereader.mitpress.mit.edu/the-truth-by-stanislaw-lem/,"The Truth, by Stanisław Lem (1964)",207
-https://web.archive.org/web/20080306134751/http://www.etek.chalmers.se/~e8gus/nano98/,Nano98: Windows 98 that boots and runs under 5MB (2003),195
-https://www.economist.com/the-economist-explains/2021/09/15/why-has-the-price-of-electricity-in-europe-reached-record-highs,Why has the price of electricity in Europe reached record highs?,183
-https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html,"What is this Gemini thing, and why am I excited about it? (2020)",181
-https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/,A mathematician's guided tour through higher dimensions,169
-https://github.com/PySimpleGUI/PySimpleGUI,Python GUIs for Humans – Transforms UI into People-Friendly Pythonic Interfaces,168
-https://benhoyt.com/writings/python-pattern-matching/,Structural pattern matching in Python 3.10,163
-https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01,Laziness does not exist (2018),162
-https://virtuallyfun.com/wordpress/2021/09/19/so-what-is-the-deal-with-a-ux-anyways/,So what is the deal with A/UX anyways?,156
-https://scotthelme.co.uk/lets-encrypt-old-root-expiration/,Let's Encrypt's old root certificate is expiring,153
-https://lwn.net/Articles/868536/,OpenSSL 3.0 released; relicensed to Apache-2.0,152
-https://github.com/GavinMendelGleason/excel_as_code,Excel as Code,149
-https://github.com/snoack/python-goto,A function decorator that rewrites the bytecode to enable goto in Python,147
-https://www.sixdegreesofwikipedia.com/,Six Degrees of Wikipedia,141
-https://nts.strzibny.name/ruby-for-ebook-publishing/,Ruby for eBook Publishing,140
-https://trishagee.com/2020/09/07/reading-code-is-a-skill/,Reading code is a skill (2020),131
-https://www.vice.com/en/article/88npjv/amazons-ai-cameras-are-punishing-drivers-for-mistakes-they-didnt-make,Amazon’s AI cameras are punishing drivers for mistakes they didn’t make,119
-https://github.com/pmq20/ruby-packer,Ruby Packer: distribute your Ruby code as a compiled binary,115
-https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/,GitHub Actions: Ephemeral self-hosted runners and new webhooks for auto-scaling,112
-https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2021,Arm AArch64 Adds Memcpy() Instructions,107
-https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/,Inspecting coredumps like it's 2021,103
-https://www.youtube.com/watch?v=Q7OPLWQJYKg,How to Ride a Motorcycle – 1942 British Military Training Film [video],101
+https://twitter.com/arkann1985/status/1467202744947822594,Bumble claims IP rights on employee's open-source libs,535
+https://www.cnbc.com/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html,Amazon is bypassing supply chain chaos with chartered ships and long-haul planes,465
+https://dither8.xyz/blog/minecraft-cliffs-terrain/,"One decade later, Minecraft world generation is interesting again",461
+https://www.zrythm.org/en/index.html,Zrythm: A highly automated and intuitive digital audio workstation,371
+https://faq.whatsapp.com/general/26000016,WhatsApp has removed answer to “how do I choose not to share data with FB”,359
+https://blog.sesse.net/blog/tech/2021-12-05-16-41_leaving_mysql.html,Leaving MySQL,296
+https://mastodon.technology/@rysiek/107390725207653910,"You click a link to a news site, to read an article that seems interesting",275
+https://academic.oup.com/ecco-jcc/article/15/4/678/5908865,Crohn’s Disease: Is the Cold Chain Hypothesis Still Hot?,225
+https://blog.haschek.at/2021/raspberry-pi-sms-gateway.html,Simple Raspberry Pi Powered SMS Gateway,223
+https://github.com/qbit/widdler,Widdler is a single binary that serves up TiddlyWikis,186
+https://krebsonsecurity.com/2021/12/ubiquiti-developer-charged-with-extortion-causing-2020-breach/,"Ubiquiti developer charged with extortion, causing 2020 “breach”",179
+https://nemets.substack.com/p/the-sea-people,The sea people: Alexander the Great trod in the footsteps of forgotten Greeks,148
+https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/,Tips on adding JSON output to your CLI app,145
+https://www.unison-lang.org/articles/distributed-datasets/core-idea/,How to make any immutable data structure distributed,137
+https://nick-black.com/htp-notcurses.pdf,Hacking the planet with Notcurses: a guide to TUIs (2020) [pdf],127
+https://backstory.substack.com/p/war-starts,War Starts,111
+https://arunmozhi.in/2021/12/06/goodbye-brave/,Goodbye Brave,109
+https://www.analog.com/en/about-adi/news-room/press-releases/2021/11-30-2021-analog-devices-expands-linux-distribution.html,Analog Devices Expands over 1000 Linux Device Drivers to Support Development,109
+https://github.com/uutils/coreutils,Coreutils Rewritten in Rust,108
+https://www.principiarewrite.com/,Whitehead and Russell’s Principia rewritten in Coq,107
+http://strangehorizons.com/non-fiction/articles/it-will-prove-invincible-blade-runner-2049-and-the-dreams-of-philip-k-dick/,2049 and the dreams of Philip K. Dick,105
+https://zapek.com/blog/why-you-shouldnt-use-google-chrome/,Chrome client “variations” can be used to identify you (2020),104
+https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/,NoiseCraft: Browser-Based Visual Programming Language for Sound and Music,104
